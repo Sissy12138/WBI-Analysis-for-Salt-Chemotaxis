@@ -24,17 +24,18 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 代码<br>
 **20251023_WBISingleAnalysis.ipynb**（单文件）<br>
 **20251018_WBIBatchAnalysis.ipynb** （多文件）<br>
-可视化：连续变量<br>
-<div align='center'>
-<img  alt="binsm_CTX_neuron71" src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" width="40%" />
-<img alt="LineNeuCorrWithCTXHighlightedByCoilingTurn" src="https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97e9-97efc4cc06e2"width="40%"/>
-</div>
+可视化：连续变量  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" alt="binsm_CTX_neuron71" width="45%" style="margin-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97efc4cc06e2" alt="LineNeuCorrWithCTXHighlightedByCoilingTurn" width="45%" />
+</p>
 
-可视化：离散变量<br>
-<div align='center'>
-<img  alt="neuron72AlgforwardReverseEnd" src="https://github.com/user-attachments/assets/878f6b7a-56de-4557-b8fd-50f6e5da9dab" width="40%" />
-<img  alt="LineNeuCorrWithRevStartHighlightedByforward" src="https://github.com/user-attachments/assets/00dd1ba1-4f07-41d4-aea9-1819dab91619" width="40%" />
-</div>
+可视化：离散变量  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/878f6b7a-56de-4557-b8fd-50f6e5da9dab" alt="neuron72AlgforwardReverseEnd" width="45%" style="margin-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/00dd1ba1-4f07-41d4-aea9-1819dab91619" alt="LineNeuCorrWithRevStartHighlightedByforward" width="45%" />
+</p>
+
 ## Posthoc Analysis
 将上一步统计分析后的结果跨数据样本总结，可视化<br>
 代码：<br>
