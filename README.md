@@ -14,7 +14,7 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 ✔️静息状态
 ✔️前进-后退
 ✔️转向（包括omega turn（以前进结尾)和卷曲状态(可能处于后退的身体高曲率状态)）<br>
-<img width="1065" height="606" alt="image" src="https://github.com/user-attachments/assets/ce66e3df-2557-4e67-a4ec-1620e195fc8a" width="600"/>
+<img width="1065" height="606" alt="image" src="https://github.com/user-attachments/assets/ce66e3df-2557-4e67-a4ec-1620e195fc8a" width="200"/>
 
 ## Statistical Analysis
 对每个数据分别进行相关性统计分析作图<br>
