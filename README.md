@@ -2,8 +2,8 @@
 Python scripts for WBI analysis of C. elegans salt chemotaxis.
 # 处理流程
 ## Extract Motion Parameters
-所需要的初始文件包括视频拍摄时自动生成的文件夹中的时间戳，载物台数据等，以及中线预处理后的数据
-相关notion页面：https://www.notion.so/Neural-Data-Analysis-Pipelines-1dcca7f3face8094951fe13b589c0b34?source=copy_link
+所需要的初始文件包括视频拍摄时自动生成的文件夹中的时间戳，载物台数据等，以及中线预处理后的数据\\
+相关notion页面：https://www.notion.so/Neural-Data-Analysis-Pipelines-1dcca7f3face8094951fe13b589c0b34?source=copy_link \\
 代码
 **202501017_WBI_sigle_extract_csv.ipynb** 单文件处理
 **20251031_WBIMotionExtract.ipynb** 批量抽参数处理
