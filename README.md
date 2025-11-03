@@ -27,12 +27,12 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 可视化：连续变量  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" alt="binsm_CTX_neuron71" width="45%" style="margin-right:5px;" />
-  <img src="https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97efc4cc06e2" alt="LineNeuCorrWithCTXHighlightedByCoilingTurn" width="45%" />
+  <img src="[https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97efc4cc06e2](https://github.com/user-attachments/assets/31d642ae-153e-45ee-b5e4-e43bbb548739)" alt="LineNeuCorrWithCTXHighlightedByReverse" width="45%" />
 </p>
 
 可视化：离散变量  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/878f6b7a-56de-4557-b8fd-50f6e5da9dab" alt="neuron72AlgforwardReverseEnd" width="45%" style="margin-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/878f6b7a-56de-4557-b8fd-50f6e5da9dab" alt="neuron72AlgforwardReverseEnd" width="25%" style="margin-right:5px;" />
   <img src="https://github.com/user-attachments/assets/00dd1ba1-4f07-41d4-aea9-1819dab91619" alt="LineNeuCorrWithRevStartHighlightedByforward" width="45%" />
 </p>
 
