@@ -14,7 +14,7 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 ✔️静息状态
 ✔️前进-后退
 ✔️转向（包括omega turn（以前进结尾)和卷曲状态(可能处于后退的身体高曲率状态)）<br>
-<img width="213" height="121" alt="image" src="https://github.com/user-attachments/assets/ce66e3df-2557-4e67-a4ec-1620e195fc8a" width="200"/>
+<img width="426" height="243" alt="image" src="https://github.com/user-attachments/assets/ce66e3df-2557-4e67-a4ec-1620e195fc8a" width="200"/>
 
 ## Statistical Analysis
 对每个数据分别进行相关性统计分析作图<br>
@@ -25,16 +25,16 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 **20251023_WBISingleAnalysis.ipynb**（单文件）<br>
 **20251018_WBIBatchAnalysis.ipynb** （多文件）<br>
 可视化：连续变量<br>
-<center class='half'>
-<img width="713" height="654" alt="binsm_CTX_neuron71" src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" />
-<img width="916" height="661" alt="LineNeuCorrWithCTXHighlightedByCoilingTurn" src="https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97e9-97efc4cc06e2" />
-</center>
+<div align='center'>
+<img  alt="binsm_CTX_neuron71" src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" width="40%" />
+<img alt="LineNeuCorrWithCTXHighlightedByCoilingTurn" src="https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97e9-97efc4cc06e2"width="40%"/>
+</div>
 
 可视化：离散变量<br>
-<center class='half'>
-<img width="685" height="759" alt="neuron72AlgforwardReverseEnd" src="https://github.com/user-attachments/assets/878f6b7a-56de-4557-b8fd-50f6e5da9dab" />
-<img width="1031" height="484" alt="LineNeuCorrWithRevStartHighlightedByforward" src="https://github.com/user-attachments/assets/00dd1ba1-4f07-41d4-aea9-1819dab91619" />
-</center>
+<div align='center'>
+<img  alt="neuron72AlgforwardReverseEnd" src="https://github.com/user-attachments/assets/878f6b7a-56de-4557-b8fd-50f6e5da9dab" width="40%" />
+<img  alt="LineNeuCorrWithRevStartHighlightedByforward" src="https://github.com/user-attachments/assets/00dd1ba1-4f07-41d4-aea9-1819dab91619" width="40%" />
+</div>
 ## Posthoc Analysis
 将上一步统计分析后的结果跨数据样本总结，可视化<br>
 代码：<br>
