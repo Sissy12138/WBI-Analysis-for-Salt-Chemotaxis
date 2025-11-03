@@ -26,8 +26,8 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 **20251018_WBIBatchAnalysis.ipynb** （多文件）<br>
 可视化：连续变量  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" alt="binsm_CTX_neuron71" width="45%" style="margin-right:5px;" />
-  <img src="[https://github.com/user-attachments/assets/ab137dfd-ad27-4d37-97efc4cc06e2](https://github.com/user-attachments/assets/31d642ae-153e-45ee-b5e4-e43bbb548739)" alt="LineNeuCorrWithCTXHighlightedByReverse" width="45%" />
+  <img src="https://github.com/user-attachments/assets/95c55067-0574-4b23-b7a6-6bb5230d9df7" alt="binsm_CTX_neuron71" width="30%" style="margin-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/31d642ae-153e-45ee-b5e4-e43bbb548739" alt="LineNeuCorrWithCTXHighlightedByReverse" width="45%" />
 </p>
 
 可视化：离散变量  
@@ -40,8 +40,10 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 将上一步统计分析后的结果跨数据样本总结，可视化<br>
 代码：<br>
 **20250924_WBIPoshocAnalysis_3.ipynb**<br>
-<img width="1269" height="835" alt="image" src="https://github.com/user-attachments/assets/89b89ced-c0e7-4eaa-b77d-b5257ad166e0" />
-<img width="708" height="375" alt="image" src="https://github.com/user-attachments/assets/be0ec08f-5877-4178-9546-8b76866d5eab" />
-<img width="1850" height="1072" alt="image" src="https://github.com/user-attachments/assets/0f390d16-ccb8-45dd-89dc-5b72094a89cd" />
-<img width="2000" height="829" alt="image" src="https://github.com/user-attachments/assets/8ff18511-1a28-444a-9a08-854dd00d42cf" />
+<img alt="image" src="https://github.com/user-attachments/assets/89b89ced-c0e7-4eaa-b77d-b5257ad166e0" width="70%"/>
+<img alt="image" src="https://github.com/user-attachments/assets/be0ec08f-5877-4178-9546-8b76866d5eab" width="50%" style="margin-right:5px;" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f390d16-ccb8-45dd-89dc-5b72094a89cd" alt="image1" width="50%" style="margin-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/8ff18511-1a28-444a-9a08-854dd00d42cf" alt="image2" width="50%"/>
+</p>
 
