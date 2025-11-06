@@ -47,7 +47,7 @@ Python scripts for WBI analysis of C. elegans salt chemotaxis.
 <img alt="image" src="https://github.com/user-attachments/assets/89b89ced-c0e7-4eaa-b77d-b5257ad166e0" width="70%"/>
 <img alt="image" src="https://github.com/user-attachments/assets/be0ec08f-5877-4178-9546-8b76866d5eab" width="50%" style="margin-right:5px;" />
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0f390d16-ccb8-45dd-89dc-5b72094a89cd" alt="image1" width="50%" style="margin-right:5px;" />
-  <img src="https://github.com/user-attachments/assets/8ff18511-1a28-444a-9a08-854dd00d42cf" alt="image2" width="50%"/>
+  <img src="https://github.com/user-attachments/assets/0f390d16-ccb8-45dd-89dc-5b72094a89cd" alt="image1" width="70%" style="margin-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/8ff18511-1a28-444a-9a08-854dd00d42cf" alt="image2" width="70%"/>
 </p>
 
